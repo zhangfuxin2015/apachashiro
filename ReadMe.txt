@@ -1,0 +1,1 @@
+shiro   spring    描述了shiro 与spring的整合
